@@ -72,6 +72,8 @@
     }
     return endY;
     
+    
+    
 }
 -(BOOL)isPointWhite:(uint32_t*)data :(int)imageWidth :(int)posX :(int)posY
 {
